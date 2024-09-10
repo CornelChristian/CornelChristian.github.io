@@ -251,6 +251,5 @@
       once: true,
       mirror: false
     })
-  });
-
+  });  
 })()
